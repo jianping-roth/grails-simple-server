@@ -27,7 +27,6 @@ body {
     margin: 10px auto;
 }
 
-
 .login-page, .error-page {
     font-family: 'Arial' !important;
     padding-top: 30px;
@@ -125,7 +124,7 @@ a.hover {
     margin: 20px 100px;
     padding-bottom: 20px;
     padding-left: 40px;
-    font-size: 18px;
+    font-size: 16px;
     color: #336699;
 }
 
@@ -133,9 +132,10 @@ a.hover {
     color: #006dba;
 }
 
-table {
+#initial-page table {
     border-collapse: separate;
     border-color: gray;
+    border-spacing: 0;
 }
 
 th  {
